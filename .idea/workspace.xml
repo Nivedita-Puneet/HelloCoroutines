@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="972184d9-acf4-4395-8e41-7877b886e582" name="Default Changelist" comment="Added Git Ignore" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@/Users/SonderTBJG5H/.android/avd/PIXEL4ATESTEMULATOR.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qsANqMDYJE00JlZUBvIUTMN0Gc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1618146841876" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1565211602">
+      <recent name="com.example.hellomodernandroiddevelopment" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.CarShould">
+    <configuration name="CarFeature.carIsTurningOnItsEngineAndIncreasesTheTemperature" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloModernAndroidDevelopment.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hellomodernandroiddevelopment.acceptanceTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.hellomodernandroiddevelopment.acceptanceTests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hellomodernandroiddevelopment.acceptanceTests.CarFeature" />
+      <option name="METHOD_NAME" value="carIsTurningOnItsEngineAndIncreasesTheTemperature" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarShould" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloModernAndroidDevelopment.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.hellomodernandroiddevelopment.unittests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.hellomodernandroiddevelopment.unittests" />
+      <option name="MAIN_CLASS_NAME" value="com.example.hellomodernandroiddevelopment.unittests.CarShould" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acceptanceTests in HelloModernAndroidDevelopment.app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloModernAndroidDevelopment.app" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/acceptanceTests" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hellomodernandroiddevelopment in HelloModernAndroidDevelopment.app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloModernAndroidDevelopment.app" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unittests in HelloModernAndroidDevelopment.app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HelloModernAndroidDevelopment.app" />
+      <option name="TEST_OBJECT" value="directory" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <dir value="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="HelloModernAndroidDevelopment.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CarShould" />
+        <item itemvalue="Android JUnit.acceptanceTests in HelloModernAndroidDevelopment.app" />
+        <item itemvalue="Android JUnit.CarFeature.carIsTurningOnItsEngineAndIncreasesTheTemperature" />
+        <item itemvalue="Android JUnit.hellomodernandroiddevelopment in HelloModernAndroidDevelopment.app" />
+        <item itemvalue="Android JUnit.unittests in HelloModernAndroidDevelopment.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="972184d9-acf4-4395-8e41-7877b886e582" name="Default Changelist" comment="" />
+      <created>1617857887577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617857887577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit With the coroutines basics">
+      <created>1618284388378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618284388378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit With the coroutines basics">
+      <created>1618284647502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618284647502</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Git Ignore">
+      <created>1618284674969</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618284674969</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit With the coroutines basics" />
+    <MESSAGE value="Added Git Ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Git Ignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="145" width="1200" height="725" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1618205014048">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="240" y="145" width="1200" height="725" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1680.956@0.25.1680.956" timestamp="1618205014048" />
+    <state x="240" y="145" width="1200" height="726" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1680.958@0.25.1680.958" timestamp="1617867737568" />
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom" timestamp="1618284375732">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.25.1680.956@0.25.1680.956" timestamp="1618284375732" />
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.25.1680.958@0.25.1680.958" timestamp="1617867729633" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.25.1680.959@0.25.1680.959" timestamp="1618149105117" />
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.25.1680.960@0.25.1680.960" timestamp="1618189097159" />
+    <state width="1638" height="275" key="GridCell.Tab.0.bottom/0.25.1680.964@0.25.1680.964" timestamp="1618201299457" />
+    <state width="1638" height="243" key="GridCell.Tab.0.bottom/0.25.1680.965@0.25.1680.965" timestamp="1618146938476" />
+    <state width="1638" height="241" key="GridCell.Tab.0.bottom/0.25.1680.966@0.25.1680.966" timestamp="1618185326404" />
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.25.1680.967@0.25.1680.967" timestamp="1618150153925" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center" timestamp="1618284375731">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.center/0.25.1680.956@0.25.1680.956" timestamp="1618284375731" />
+    <state width="1358" height="245" key="GridCell.Tab.0.center/0.25.1680.958@0.25.1680.958" timestamp="1617867729632" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.25.1680.959@0.25.1680.959" timestamp="1618149105115" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center/0.25.1680.960@0.25.1680.960" timestamp="1618189097159" />
+    <state width="1638" height="275" key="GridCell.Tab.0.center/0.25.1680.964@0.25.1680.964" timestamp="1618201299456" />
+    <state width="1638" height="243" key="GridCell.Tab.0.center/0.25.1680.965@0.25.1680.965" timestamp="1618146938475" />
+    <state width="1638" height="241" key="GridCell.Tab.0.center/0.25.1680.966@0.25.1680.966" timestamp="1618185326403" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.25.1680.967@0.25.1680.967" timestamp="1618150153924" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left" timestamp="1618284375730">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.left/0.25.1680.956@0.25.1680.956" timestamp="1618284375730" />
+    <state width="1358" height="245" key="GridCell.Tab.0.left/0.25.1680.958@0.25.1680.958" timestamp="1617867729632" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.25.1680.959@0.25.1680.959" timestamp="1618149105114" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left/0.25.1680.960@0.25.1680.960" timestamp="1618189097158" />
+    <state width="1638" height="275" key="GridCell.Tab.0.left/0.25.1680.964@0.25.1680.964" timestamp="1618201299456" />
+    <state width="1638" height="243" key="GridCell.Tab.0.left/0.25.1680.965@0.25.1680.965" timestamp="1618146938474" />
+    <state width="1638" height="241" key="GridCell.Tab.0.left/0.25.1680.966@0.25.1680.966" timestamp="1618185326402" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.25.1680.967@0.25.1680.967" timestamp="1618150153924" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right" timestamp="1618284375731">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state width="1638" height="275" key="GridCell.Tab.0.right/0.25.1680.956@0.25.1680.956" timestamp="1618284375731" />
+    <state width="1358" height="245" key="GridCell.Tab.0.right/0.25.1680.958@0.25.1680.958" timestamp="1617867729633" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.25.1680.959@0.25.1680.959" timestamp="1618149105116" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right/0.25.1680.960@0.25.1680.960" timestamp="1618189097159" />
+    <state width="1638" height="275" key="GridCell.Tab.0.right/0.25.1680.964@0.25.1680.964" timestamp="1618201299457" />
+    <state width="1638" height="243" key="GridCell.Tab.0.right/0.25.1680.965@0.25.1680.965" timestamp="1618146938475" />
+    <state width="1638" height="241" key="GridCell.Tab.0.right/0.25.1680.966@0.25.1680.966" timestamp="1618185326403" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.25.1680.967@0.25.1680.967" timestamp="1618150153925" />
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom" timestamp="1618150153927">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom/0.25.1680.959@0.25.1680.959" timestamp="1618149106005" />
+    <state width="1638" height="256" key="GridCell.Tab.1.bottom/0.25.1680.967@0.25.1680.967" timestamp="1618150153927" />
+    <state width="1638" height="256" key="GridCell.Tab.1.center" timestamp="1618150153926">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.1.center/0.25.1680.959@0.25.1680.959" timestamp="1618149106004" />
+    <state width="1638" height="256" key="GridCell.Tab.1.center/0.25.1680.967@0.25.1680.967" timestamp="1618150153926" />
+    <state width="1638" height="256" key="GridCell.Tab.1.left" timestamp="1618150153926">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.1.left/0.25.1680.959@0.25.1680.959" timestamp="1618149106004" />
+    <state width="1638" height="256" key="GridCell.Tab.1.left/0.25.1680.967@0.25.1680.967" timestamp="1618150153926" />
+    <state width="1638" height="256" key="GridCell.Tab.1.right" timestamp="1618150153927">
+      <screen x="0" y="25" width="1680" height="967" />
+    </state>
+    <state width="1638" height="256" key="GridCell.Tab.1.right/0.25.1680.959@0.25.1680.959" timestamp="1618149106005" />
+    <state width="1638" height="256" key="GridCell.Tab.1.right/0.25.1680.967@0.25.1680.967" timestamp="1618150153927" />
+    <state x="439" y="239" key="Vcs.Push.Dialog.v2" timestamp="1618285051521">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="439" y="239" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1618285051521" />
+    <state x="378" y="243" width="922" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618204625982">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="378" y="243" width="922" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1680.956@0.25.1680.956" timestamp="1618204625982" />
+    <state x="541" y="218" width="597" height="586" key="find.popup" timestamp="1618199481756">
+      <screen x="0" y="25" width="1680" height="964" />
+    </state>
+    <state x="541" y="217" width="597" height="582" key="find.popup/0.25.1680.959@0.25.1680.959" timestamp="1617933718402" />
+    <state x="541" y="217" width="597" height="582" key="find.popup/0.25.1680.960@0.25.1680.960" timestamp="1617859258667" />
+    <state x="541" y="218" width="597" height="586" key="find.popup/0.25.1680.964@0.25.1680.964" timestamp="1618199481756" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/CarShould.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/CarShould.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <breakpoint enabled="true" suspend="THREAD" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="9" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

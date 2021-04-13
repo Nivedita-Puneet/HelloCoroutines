@@ -1,0 +1,2 @@
+com/example/hellomodernandroiddevelopment/BuildConfig.java
+ com.example.hellomodernandroiddevelopment.BuildConfig
