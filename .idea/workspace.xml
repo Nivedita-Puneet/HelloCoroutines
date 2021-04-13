@@ -9,7 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="972184d9-acf4-4395-8e41-7877b886e582" name="Default Changelist" comment="Added Git Ignore" />
+    <list default="true" id="972184d9-acf4-4395-8e41-7877b886e582" name="Default Changelist" comment="Added Git Ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/acceptanceTests/CarFeature.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/CarShould.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/EngineShould.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/utils/MainCoRoutineScopeRule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/utils/MainCoRoutineScopeRule.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +48,17 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qsANqMDYJE00JlZUBvIUTMN0Gc" />
@@ -60,7 +77,7 @@
       <recent name="com.example.hellomodernandroiddevelopment" />
     </key>
   </component>
-  <component name="RunManager" selected="Android JUnit.CarShould">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="CarFeature.carIsTurningOnItsEngineAndIncreasesTheTemperature" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="HelloModernAndroidDevelopment.app" />
       <extension name="coverage">
@@ -240,6 +257,14 @@
     </state>
     <state x="240" y="145" width="1200" height="725" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1680.956@0.25.1680.956" timestamp="1618205014048" />
     <state x="240" y="145" width="1200" height="726" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1680.958@0.25.1680.958" timestamp="1617867737568" />
+    <state x="188" y="430" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1618286078814">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="188" y="430" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.25.1680.956@0.25.1680.956" timestamp="1618286078814" />
+    <state x="563" y="387" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1618286080762">
+      <screen x="0" y="25" width="1680" height="956" />
+    </state>
+    <state x="563" y="387" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.25.1680.956@0.25.1680.956" timestamp="1618286080762" />
     <state width="1638" height="275" key="GridCell.Tab.0.bottom" timestamp="1618284375732">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
@@ -304,10 +329,10 @@
     </state>
     <state width="1638" height="256" key="GridCell.Tab.1.right/0.25.1680.959@0.25.1680.959" timestamp="1618149106005" />
     <state width="1638" height="256" key="GridCell.Tab.1.right/0.25.1680.967@0.25.1680.967" timestamp="1618150153927" />
-    <state x="439" y="239" key="Vcs.Push.Dialog.v2" timestamp="1618285051521">
+    <state x="439" y="239" key="Vcs.Push.Dialog.v2" timestamp="1618285849588">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
-    <state x="439" y="239" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1618285051521" />
+    <state x="439" y="239" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1618285849588" />
     <state x="378" y="243" width="922" height="623" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1618204625982">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
@@ -322,16 +347,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/CarShould.kt</url>
-          <line>17</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/app/src/test/java/com/example/hellomodernandroiddevelopment/unittests/CarShould.kt</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
         <breakpoint enabled="true" suspend="THREAD" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="9" />
