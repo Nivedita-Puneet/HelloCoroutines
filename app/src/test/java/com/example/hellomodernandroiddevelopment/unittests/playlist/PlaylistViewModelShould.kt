@@ -1,4 +1,4 @@
-package com.example.hellomodernandroiddevelopment
+package com.example.hellomodernandroiddevelopment.unittests.playlist
 
 import com.example.hellomodernandroiddevelopment.playlists.Playlist
 import com.example.hellomodernandroiddevelopment.playlists.PlaylistRepository
@@ -32,8 +32,7 @@ class PlaylistViewModelShould: BaseUnitTest() {
                 emit(expected)
             })
         }
-        val viewModel = PlaylistViewModel(repository)
-        return viewModel
+        return PlaylistViewModel(repository)
     }
     @Test
     fun getPlaylistsFromRepository() = runBlockingTest {
