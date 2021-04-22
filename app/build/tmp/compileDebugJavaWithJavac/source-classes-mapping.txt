@@ -1,2 +1,8 @@
 com/example/hellomodernandroiddevelopment/BuildConfig.java
  com.example.hellomodernandroiddevelopment.BuildConfig
+com/example/hellomodernandroiddevelopment/databinding/FragmentItemListBinding.java
+ com.example.hellomodernandroiddevelopment.databinding.FragmentItemListBinding
+com/example/hellomodernandroiddevelopment/databinding/PlaylistItemBinding.java
+ com.example.hellomodernandroiddevelopment.databinding.PlaylistItemBinding
+com/example/hellomodernandroiddevelopment/databinding/ActivityMainBinding.java
+ com.example.hellomodernandroiddevelopment.databinding.ActivityMainBinding

@@ -36,6 +36,14 @@
         "source": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/intermediates/res/merged/debug/layout_playlist_item.xml.flat",
+        "source": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/src/main/res/layout/playlist_item.xml"
+    },
+    {
+        "merged": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/intermediates/res/merged/debug/mipmap-hdpi_playlist.png.flat",
+        "source": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/src/main/res/mipmap-hdpi/playlist.png"
+    },
+    {
         "merged": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
@@ -50,6 +58,10 @@
     {
         "merged": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/intermediates/res/merged/debug/layout_fragment_item_list.xml.flat",
+        "source": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/src/main/res/layout/fragment_item_list.xml"
     },
     {
         "merged": "/Users/SonderTBJG5H/AndroidStudioProjects/HelloModernAndroidDevelopment/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
