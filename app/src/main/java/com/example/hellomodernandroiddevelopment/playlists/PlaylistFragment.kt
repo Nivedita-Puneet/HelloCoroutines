@@ -10,24 +10,19 @@ import android.view.ViewGroup
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.ViewModelProvider
 import com.example.hellomodernandroiddevelopment.R
+import dagger.hilt.android.AndroidEntryPoint
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import javax.inject.Inject
 
-
+@AndroidEntryPoint
 class PlaylistFragment : Fragment() {
 
     lateinit var viewModel: PlaylistViewModel
+
+    @Inject
     lateinit var viewModelFactory: PlaylistViewModelFactory
-    private val retrofit = Retrofit.Builder()
-        .baseUrl("https://5b9eabe1-72ad-4eda-b37f-3180c1d925e4.mock.pstmn.io/").
-        client(OkHttpClient()).addConverterFactory(GsonConverterFactory.create()).build()
-
-    private val api = retrofit.create(PlaylistAPI::class.java)
-    private val service = PlayListService(api)
-    private val repository:PlaylistRepository = PlaylistRepository(service)
-
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -59,7 +54,6 @@ class PlaylistFragment : Fragment() {
     }
 
     private fun setuViewModel() {
-        viewModelFactory = PlaylistViewModelFactory(repository)
         viewModel = ViewModelProvider(this, viewModelFactory).get(PlaylistViewModel::class.java)
     }
 
