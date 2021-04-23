@@ -1,9 +1,10 @@
 package com.example.hellomodernandroiddevelopment.playlists
 
+import retrofit2.http.GET
+
 
 interface PlaylistAPI {
 
-    suspend fun fetchAllPlaylists(): List<Playlist>{
-        TODO("Not Yet implemented")
-    }
+    @GET("music")
+    suspend fun fetchAllPlaylists(): List<Playlist>
 }
